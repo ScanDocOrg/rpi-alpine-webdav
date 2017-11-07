@@ -26,7 +26,7 @@ BBD079139851B735F1B4A3198E244D3BD691CFD046D5C77FEA70EDDCAF855356
 - You can change the password by generating a new htpasswd from a htpasswd file generator like [http://www.htaccesstools.com/htpasswd-generator/](http://www.htaccesstools.com/htpasswd-generator/)
 
 ## Github Repository
-github.com/stephanepiriou/rpi-alpine-webdav
+https://github.com/stephanepiriou/rpi-alpine-webdav
 
 ## Docker Repository
 https://hub.docker.com/r/stephanepiriou/rpi-alpine-webdav/
