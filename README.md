@@ -1,7 +1,7 @@
 # rpi-alpine-webdav
 A tiny webdav server for Raspberry Pi
 
-<br />
+<hr />
 
 A no-hassles webdav server build base on arm36v2:alpine and loosely inspired from jgeusebroek/webdav and adapted for arm36v2 platform.
 
